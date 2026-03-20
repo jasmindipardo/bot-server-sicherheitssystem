@@ -85,4 +85,4 @@ bot-server-sicherheitssystem/
 
 ## Lizenz & Nutzung
 
-*© Jasmin Di Pardo – Nur für Kunden von Jasmin Di Pardo. Keine kommerzielle Weiterverwendung oder Weitergabe ohne ausdrückliche Genehmigung. Kontakt: jasmin@jasmindipardo.de*
+*© Jasmin Di Pardo – Nur für Kunden von Jasmin Di Pardo. Keine kommerzielle Weiterverwendung oder Weitergabe ohne ausdrückliche Genehmigung.*
